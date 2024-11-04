@@ -1,5 +1,6 @@
-import random
-from random import choice
+import random                # Для метода __call__. Для случайного выбора с одинаковой вероятностью для каждого 
+from random import choice    # данного в коллекции можете использовать функцию choice из модуля random
+
 #   Lambda-функция
 #   Даны 2 строки:
 
